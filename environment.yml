@@ -1,8 +1,8 @@
-name: msds565-moviegenre
+name: msds565
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.12
   - numpy
   - pandas
   - scipy
