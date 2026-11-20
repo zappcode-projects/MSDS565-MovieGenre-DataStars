@@ -2,7 +2,7 @@
 
 MSDS 565, Project 3 (Unit 3, text classification). We explored a corpus of movie plot synopses, trained one logistic regression per genre on TF-IDF and on sentence embeddings, measured how much accuracy is lost when an LLM supplies the training labels instead of IMDB, and explained the TF-IDF models with coefficients and SHAP.
 
-**Team:** DataStars &middot; Michael Flanders, Justin Irick, Antonio Brown
+**Team:** DataStars
 
 ## 1. Data
 
