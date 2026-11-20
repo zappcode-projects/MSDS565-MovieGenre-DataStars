@@ -1,0 +1,20 @@
+name: msds565-moviegenre
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - joblib
+  - shap
+  - ipykernel
+  - jupyter
+  - pip
+  - pip:
+      - sentence-transformers
+      - anthropic
+      - brotlicffi
